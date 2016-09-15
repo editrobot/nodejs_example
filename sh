@@ -1,0 +1,1 @@
+/usr/local/bin/node Documents/node_js/index.js
